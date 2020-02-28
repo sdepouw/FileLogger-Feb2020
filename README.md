@@ -1,4 +1,4 @@
-![Build and Tests](https://github.com/sdepouw/FileLogger-Feb2020/workflows/.NET%20Core/badge.svg)
+![Build and Tests](https://github.com/sdepouw/FileLogger-Feb2020/workflows/Build%20and%20Tests/badge.svg)
 
 An implementation of the File Logger Kata from Ardalis.
 * [File Logger Kata](https://github.com/ardalis/kata-catalog/blob/master/katas/File%20Logger.md)
